@@ -8,7 +8,7 @@
 #define MyAppURL "https://www.giantapp.cn"
 #define MyAppExeName "LiveWallpaper3.exe"
 #define ProductNameEn="Live Wallpaper 3"
-#define ProductNameZh="æﬁ”¶±⁄÷Ω3"
+#define ProductNameZh="Â∑®Â∫îÂ£ÅÁ∫∏ 3"
 #define OutputDir=".\dist"
 
 [Setup]
